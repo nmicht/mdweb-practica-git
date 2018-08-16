@@ -10,4 +10,4 @@
 8. Leticia Gomez
 9. Karen Salazar
 10. Lenin Aparicio (2)
-11. Karen Salazar (2)
+11. Karen Salazar(2)
