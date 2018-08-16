@@ -1,6 +1,6 @@
 ﻿Lista de alumnos que han realizado la práctica
 1. Michelle Torres
-1. Victor Hugo Perez Rojas
+1. Victor Hugo Perez Rojas (2)
 1. Nancy Torres
 1. Lenin Aparicio
 1. Nancy Torres
