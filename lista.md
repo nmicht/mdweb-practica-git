@@ -6,5 +6,5 @@
 1. Nancy Torres
 5. Mihael Cruz
 6. Pedro Mercado
-7. Luis Alerto Zegarra
+7. Luis Alberto Zegarra
 
