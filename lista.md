@@ -7,4 +7,4 @@
 5. Mihael Cruz
 6. Pedro Mercado
 7. Luis Alberto Zegarra
-
+8. Karen Salazar
