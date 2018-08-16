@@ -4,7 +4,7 @@
 1. Nancy Torres
 1. Lenin Aparicio
 1. Nancy Torres
-5. Mihael Cruz
+5. Mihael Cruz (2)
 6. Pedro Mercado
 7. Luis Alberto Zegarra (2)
 8. Leticia Gomez
