@@ -8,7 +8,4 @@
 6. Pedro Mercado
 7. Luis Alberto Zegarra
 8. Leticia Gomez
-
-=======
 8. Karen Salazar
->>>>>>> 38a22b5ff6faad51c1d03f37b38938f7f85a0f2e
