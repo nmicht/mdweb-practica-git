@@ -2,4 +2,8 @@
 1. Michelle Torres
 1. Victor Hugo Perez Rojas
 1. Nancy Torres
+1. Lenin Aparicio
+1. Nancy Torres
+5. Mihael Cruz
+6. Pedro Mercado
 
